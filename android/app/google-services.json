@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508444551078",
+    "project_id": "krashidhara",
+    "storage_bucket": "krashidhara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508444551078:android:ac44b1d3943f58a464d167",
+        "android_client_info": {
+          "package_name": "com.example.car_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508444551078-sql6q486bd3qmi2plrmql352jsecbid7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNr29eiZyNiu2mNR2j4BywWk0B9PYUjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508444551078-sql6q486bd3qmi2plrmql352jsecbid7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
